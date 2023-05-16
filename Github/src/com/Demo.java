@@ -9,5 +9,9 @@ public class Demo {
 
 		System.out.println("Branch-1");
 	}
+	public void m1()
+	{
+		System.out.println("hello");
+	}
 
 }
